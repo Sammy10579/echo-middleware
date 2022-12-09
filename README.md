@@ -2,9 +2,6 @@
 
 Example project of test assessment from imaginary company. Full text of the task can be found [here](docs/testtask.pdf)
 
-## Task
-
-You have **1 hour** to solve the task. If you are lucky enough and have time left, please try to optimise your solution.
 
 ### Build a middleware using echo framework
 
